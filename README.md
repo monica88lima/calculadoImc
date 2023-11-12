@@ -1,5 +1,5 @@
 # Projeto Senac - Identificação de Classificação do IMC
-<h1 align="center">:computer: #Criando function para verificar classificação de imc</h1>
+
 
 A proposta da PTI era desenvolver soluções para determinar a classificação do IMC utilizando funções e arrays.
 
@@ -11,7 +11,7 @@ A proposta da PTI era desenvolver soluções para determinar a classificação d
 -HTML
 
 
-#:pushpin:-[Recursos](#recursos)
+:pushpin:-[Recursos](#recursos)
 
 -Visual Studio Code
 -XAMPP
